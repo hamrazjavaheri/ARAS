@@ -3,7 +3,7 @@
 
 ARAS is an augmented reality assistance system designed for intraoperative navigation during open pancreatic surgery. ARAS was developed following a user-centered design process advised by experienced surgeons and was iteratively refined and evaluated in clinical trials. 
 
-# Media Appearance 
+## Media Appearance 
 The success of ARAS in assisting surgeons during extremely critical surgical procedures has captured the attention of various local and international media outlets. 
 <p align="center">
   <a href="https://p.dw.com/p/4bqeU">
@@ -17,5 +17,19 @@ The success of ARAS in assisting surgeons during extremely critical surgical pro
   </a>
 </p>
 
+## Publications
+Below is the list of publications along with BibTex entries to cite:
 
+### [Beyond the visible: preliminary evaluation of the first wearable augmented reality assistance system for pancreatic surgery](https://doi.org/10.1007/s11548-024-03131-0)
+```
+@article{javaheri2024beyond,
+  title={Beyond the visible: preliminary evaluation of the first wearable augmented reality assistance system for pancreatic surgery},
+  author={Javaheri, Hamraz and Ghamarnejad, Omid and Bade, Ragnar and Lukowicz, Paul and Karolus, Jakob and Stavrou, Gregor Alexander},
+  journal={International Journal of Computer Assisted Radiology and Surgery},
+  pages={1--13},
+  year={2024},
+  publisher={Springer}
+}
+
+```
 
