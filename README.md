@@ -5,8 +5,7 @@ ARAS is an augmented reality assistance system designed for intraoperative navig
 
 # Media Appearance 
 <b><p align="center">
-(![2560px-Deutsche_Welle_symbol_2012 svg](https://github.com/user-attachments/assets/dc40bb7c-d29c-474c-8053-3227e0b52f3e)
-)](https://p.dw.com/p/4bqeU)
+[![2560px-Deutsche_Welle_symbol_2012 svg](https://github.com/user-attachments/assets/dc40bb7c-d29c-474c-8053-3227e0b52f3e)](https://p.dw.com/p/4bqeU)
 </p></b>
 
 
