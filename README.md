@@ -42,7 +42,7 @@ Below is the list of publications along with BibTex entries to cite:
   year={2024}
 }
 ```
-### [Design and Clinical Evaluation of ARAS: An Augmented Reality Assistance System for Open Pancreatic Surgery]
+### [Design and Clinical Evaluation of ARAS: An Augmented Reality Assistance System for Open Pancreatic Surgery] (https://ieeeismar.org/)
 ```
 @inproceedings{javaheri,
   title={Design and Clinical Evaluation of ARAS: An Augmented Reality Assistance System for Open Pancreatic Surgery},
