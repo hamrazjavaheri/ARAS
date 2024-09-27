@@ -32,4 +32,22 @@ Below is the list of publications along with BibTex entries to cite:
 }
 
 ```
-
+### [ARAS: LLM-Supported Augmented Reality Assistance System for Pancreatic Surgery](https://doi.org/10.1145/3675094.3677543)
+```
+@inproceedings{javaheri2024aras,
+  title={ARAS: LLM-Supported Augmented Reality Assistance System for Pancreatic Surgery},
+  author={Javaheri, Hamraz and Ghamarnejad, Omid and Lukowicz, Paul and Stavrou, Gregor Alexander and Karolus, Jakob},
+  booktitle={Companion of the 2024 on ACM International Joint Conference on Pervasive and Ubiquitous Computing},
+  pages={176--180},
+  year={2024}
+}
+```
+### [Design and Clinical Evaluation of ARAS: An Augmented Reality Assistance System for Open Pancreatic Surgery]
+```
+@inproceedings{javaheri,
+  title={Design and Clinical Evaluation of ARAS: An Augmented Reality Assistance System for Open Pancreatic Surgery},
+  author={Javaheri, Hamraz and Ghamarnejad, Omid and Lukowicz, Paul and Stavrou, Gregor Alexander and Karolus, Jakob},
+  conference = ISMAR24,
+  year={2024}
+}
+```
