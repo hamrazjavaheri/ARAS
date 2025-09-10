@@ -51,7 +51,7 @@ Below is the list of publications along with BibTex entries to cite:
   year={2024}
 }
 ```
-### [LLMs Enable Context-Aware Augmented Reality in Surgical Navigation](https://doi.org/10.1145/3715336.373570)
+### [LLMs Enable Context-Aware Augmented Reality in Surgical Navigation](https://doi.org/10.1145/3715336.3735708)
 ```
 @inproceedings{javaheri2025llms,
   title={LLMs Enable Context-Aware Augmented Reality in Surgical Navigation},
