@@ -51,3 +51,37 @@ Below is the list of publications along with BibTex entries to cite:
   year={2024}
 }
 ```
+### [LLMs Enable Context-Aware Augmented Reality in Surgical Navigation](https://doi.org/10.1145/3715336.373570)
+```
+@inproceedings{javaheri2025llms,
+  title={LLMs Enable Context-Aware Augmented Reality in Surgical Navigation},
+  author={Javaheri, Hamraz and Ghamarnejad, Omid and Lukowicz, Paul and Stavrou, Gregor Alexander and Karolus, Jakob},
+  booktitle={Proceedings of the 2025 ACM Designing Interactive Systems Conference},
+  pages={3205--3220},
+  year={2025}
+}
+```
+
+### [Enhancing perioperative outcomes of pancreatic surgery with wearable augmented reality assistance system: a matched-pair analysis](https://doi.org/10.1097/AS9.0000000000000516)
+```
+@article{javaheri2024enhancing,
+  title={Enhancing perioperative outcomes of pancreatic surgery with wearable augmented reality assistance system: a matched-pair analysis},
+  author={Javaheri, Hamraz and Ghamarnejad, Omid and Widyaningsih, Rizky and Bade, Ragnar and Lukowicz, Paul and Karolus, Jakob and Stavrou, Gregor Alexander},
+  journal={Annals of Surgery Open},
+  volume={5},
+  number={4},
+  pages={e516},
+  year={2024},
+  publisher={LWW}
+}
+```
+### [From Concept to Clinic: Multidisciplinary Design, Development, and Clinical Validation of Augmented Reality-Assisted Open Pancreatic Surgery](https://doi.org/10.1145/3706598.3713458)
+```
+@inproceedings{javaheri2025concept,
+  title={From Concept to Clinic: Multidisciplinary Design, Development, and Clinical Validation of Augmented Reality-Assisted Open Pancreatic Surgery},
+  author={Javaheri, Hamraz and Ghamarnejad, Omid and Lukowicz, Paul and Stavrou, Gregor A and Karolus, Jakob},
+  booktitle={Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems},
+  pages={1--24},
+  year={2025}
+}
+```
